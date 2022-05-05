@@ -19,9 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/__emmaad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__emmaad__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emad-abd-el-hamied-85789418a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emad-abd-el-hamied-85789418a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/emadabdelhamied/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/emadabdelhamied/account" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/emadabdelhamied/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emadabdelhamied" height="30" width="40" /></a>
 <a href="emadabdelhamied39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/emad.abdelhamied.39" height="30" width="40" /></a>
-<a href="https://discord.gg/Emad21_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emad21_3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
